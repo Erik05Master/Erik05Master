@@ -4,4 +4,4 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erik05master" alt="erik05master" /></a> </p>
 
-- 🔭 I’m currently working on and [SytxLabs](https://sytx.eu)
+- 🔭 I’m currently working on [SytxLabs](https://sytx.eu)
