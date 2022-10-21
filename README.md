@@ -4,7 +4,6 @@
 <p align="left"> <a href="https://twitter.com/erik05master" target="blank"><img src="https://img.shields.io/twitter/follow/erik05master?logo=twitter&style=for-the-badge" alt="erik05master" /></a> </p>
 
 - 🔭 I’m currently working on [SytxLabs](https://github.com/SytxLabs)
-- 🔭 I’m currently working on [Mizukibot](https://github.com/MizukiDevTeam) [Mizukibot.de](https://mizukibot.de) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
