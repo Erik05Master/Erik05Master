@@ -26,12 +26,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Erik05Master/Erik05Master/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">Backend Languages</h3>
 
 ###
